@@ -1,0 +1,3 @@
+[submodule "components/cogizmo"]
+	path = components/cogizmo
+	url = https://github.com/cogizmo/cogizmo
